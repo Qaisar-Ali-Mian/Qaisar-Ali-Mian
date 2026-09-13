@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Qaisar-Ali-Mian
 - 👀 I’m interested in AI/ML
-- 🌱 I’m currently learning Web development
+- 🌱 I’m currently learning Flutter,dart 
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me, here is my email qaisaralimian65@gmail.com
 - 😄 Pronouns: ...
